@@ -16,7 +16,7 @@ Analyzed 6,400+ weekly sales records to identify sales trends and understand rel
 
 Tools: Microsoft Excel, Pivot Tables, Statistical Analysis, Correlation Analysis
 
-👉 View Project
+👉 https://github.com/somasundaram2000/business-analytics-portfolio/tree/e0483b244ec190312430bc6683529d73ccdc4c6d/Supermarket%20Sales%20Analysis%20%26%20Dashboard
 
 2. Sales & Profitability Analytics Dashboard – Power BI
 
