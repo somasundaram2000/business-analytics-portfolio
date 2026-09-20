@@ -1,12 +1,12 @@
 # Walmart Store Sales Analysis – Excel
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes Walmart weekly sales data using **Microsoft Excel** to identify sales trends and understand the relationship between weekly sales and selected economic factors.
 
 The analysis focuses on historical sales performance across different years and quarters and includes statistical and correlation analysis.
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 
 * Microsoft Excel
 * Pivot Tables
@@ -16,7 +16,7 @@ The analysis focuses on historical sales performance across different years and 
 * Trend Analysis
 * Data Visualization
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains **6,400+ weekly sales records** with information including:
 
@@ -29,7 +29,7 @@ The dataset contains **6,400+ weekly sales records** with information including:
 * CPI
 * Unemployment
 
-## 🔍 Analysis Performed
+## Analysis Performed
 
 ### 1. Sales Trend Analysis
 
@@ -50,7 +50,7 @@ Analyzed the relationship between **Weekly Sales** and selected factors:
 * CPI
 * Unemployment
 
-## 📈 Key Excel Features Used
+## Key Excel Features Used
 
 * Pivot Tables
 * Pivot Charts
@@ -59,16 +59,15 @@ Analyzed the relationship between **Weekly Sales** and selected factors:
 * Data Filtering
 * Data Visualization
 
-## 📷 Project Preview
+## Project Preview
 
 <img width="971" height="524" alt=<img width="971" height="524" alt="DASHBOARD 1" src="https://github.com/user-attachments/assets/624cb660-6ae5-41a8-91fd-706799204696" />
-"image" src="https://github.com/user-attachments/assets/05bded62-de67-4210-9d94-32b91bf7f763" />
 
 
-## 🎯 Key Learning
+## Key Learning
 
 This project helped develop practical skills in **Excel-based data analysis, statistical analysis, trend identification and interpretation of relationships between business performance and external factors**.
 
-## 📁 Files
+## Files
 Walmart-Sales-Analysis.xlsx
 Walmart-Sales-Analysis.png
