@@ -16,7 +16,7 @@ Analyzed 6,400+ weekly sales records to identify sales trends and understand rel
 
 Tools: Microsoft Excel, Pivot Tables, Statistical Analysis, Correlation Analysis
 
-👉 https://github.com/somasundaram2000/business-analytics-portfolio/tree/e0483b244ec190312430bc6683529d73ccdc4c6d/Supermarket%20Sales%20Analysis%20%26%20Dashboard
+👉 https://github.com/somasundaram2000/business-analytics-portfolio/tree/bf428a41fd2e009f4cf81bfde29a641786923353/Walmart%20Store%20Sales%20Analysis
 
 2. Supermarket Sales Analysis & Dashboard
 
