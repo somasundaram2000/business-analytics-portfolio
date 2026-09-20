@@ -18,13 +18,13 @@ Tools: Microsoft Excel, Pivot Tables, Statistical Analysis, Correlation Analysis
 
 👉 https://github.com/somasundaram2000/business-analytics-portfolio/tree/e0483b244ec190312430bc6683529d73ccdc4c6d/Supermarket%20Sales%20Analysis%20%26%20Dashboard
 
-2. Sales & Profitability Analytics Dashboard – Power BI
+2. Supermarket Sales Analysis & Dashboard
 
 Built an interactive Power BI dashboard to analyze revenue, profit, sales, quantity and regional performance.
 
 Tools: Power BI, Power Query, DAX, Data Modeling, Data Visualization
 
-👉 View Project
+👉 [View Project](https://github.com/somasundaram2000/business-analytics-portfolio/tree/e0483b244ec190312430bc6683529d73ccdc4c6d/Supermarket%20Sales%20Analysis%20%26%20Dashboard)
  
 ## Currently Learning
 Advanced SQL
