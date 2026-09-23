@@ -25,6 +25,19 @@ Built an interactive Power BI dashboard to analyze revenue, profit, sales, quant
 Tools: Power BI, Power Query, DAX, Data Modeling, Data Visualization
 
 👉 [View Project](https://github.com/somasundaram2000/business-analytics-portfolio/tree/e0483b244ec190312430bc6683529d73ccdc4c6d/Supermarket%20Sales%20Analysis%20%26%20Dashboard)
+
+3.Power BI Sales Dashboard
+
+An interactive **Power BI dashboard** developed to analyze sales, revenue, profit, customer, product, segment, and regional performance.
+
+**Key Highlights:**
+
+* Built interactive dashboards with **KPIs, trend analysis, slicers, and drill-throughs**
+* Used **Power Query, DAX, and data modeling** for data transformation and analysis
+* Generated business insights into **sales trends, customer performance, product profitability, and segment/region performance**
+
+**Tools:** Power BI | DAX | Power Query | Data Modeling
+👉 [View Project]
  
 ## Currently Learning
 Advanced SQL
