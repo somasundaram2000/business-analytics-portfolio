@@ -81,13 +81,37 @@ Provides a high-level overview of key sales and business performance metrics.
 ##  Dashboard Pages
 
 1. **Summary**
+   
+   <img width="888" height="494" alt="image" src="https://github.com/user-attachments/assets/ef3dca9e-167f-4eff-8750-65e8154a3d3d" />
+
 2. **Sales Trend**
+
+   <img width="882" height="494" alt="image" src="https://github.com/user-attachments/assets/83edf7dc-b8e4-4579-acdf-32a0346722d4" />
+
 3. **Customer Summary**
-4. **Customer Orders**
-5. **Segment Analysis**
-6. **Profit & Revenue Analysis**
+
+   <img width="892" height="492" alt="image" src="https://github.com/user-attachments/assets/3bec7ba8-d7ba-4e35-a0ed-2d595babebec" />
+
+4. **Total Sales**
+
+   <img width="427" height="339" alt="image" src="https://github.com/user-attachments/assets/746db8fa-c6e1-4371-a4ed-75f5f9890ec0" />
+
+5. **Profit & Revenue Analysis**
+
+   <img width="892" height="490" alt="image" src="https://github.com/user-attachments/assets/7986412f-3e62-4890-8a70-fd2cf9ee95cb" />
+
+6. **Segment Analysis**
+
+   <img width="832" height="487" alt="image" src="https://github.com/user-attachments/assets/85c631df-80b9-496f-ba82-ed16d2aeb9ed" />
+
 7. **Profit Analysis**
+
+   <img width="854" height="482" alt="image" src="https://github.com/user-attachments/assets/607250a4-1d20-40ee-82cf-142f717d232f" />
+
 8. **Profit Analysis Table**
+
+   <img width="817" height="308" alt="image" src="https://github.com/user-attachments/assets/99684024-d258-49b1-b46f-1e1f54165ab8" />
+
 
 ##  Business Value
 
