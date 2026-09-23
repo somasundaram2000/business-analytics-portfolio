@@ -37,7 +37,8 @@ An interactive **Power BI dashboard** developed to analyze sales, revenue, profi
 * Generated business insights into **sales trends, customer performance, product profitability, and segment/region performance**
 
 **Tools:** Power BI | DAX | Power Query | Data Modeling
-👉 [View Project]
+
+👉 [View Project](https://github.com/somasundaram2000/business-analytics-portfolio/tree/fbd7edf749fad3786d23c2d2165c3196e38ea476/Power%20BI%20Sales%20Dashboard)
  
 ## Currently Learning
 Advanced SQL
